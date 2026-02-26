@@ -32,5 +32,4 @@ def analyze_board_game(board_size):
         "Possibilidade de um usuário conseguir executar o caminho ótimo" : optimal_path_probability,
         "Combinações sem loop": combinations_without_loop
         }
-    
-print(analyze_board_game(3))
+
